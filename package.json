@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/diff-dates/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/diff-dates#readme"
+  "homepage": "https://github.com/IonicaBizau/diff-dates#readme",
+  "dependencies": {
+    "date-unit-ms": "^1.1.0"
+  }
 }
