@@ -1,0 +1,27 @@
+{
+  "name": "diff-dates",
+  "version": "1.0.0",
+  "description": "Make date differences.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date",
+    "diff",
+    "difference"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicaBizau/diff-dates.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/diff-dates/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/diff-dates#readme"
+}
