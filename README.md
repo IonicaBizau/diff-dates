@@ -1,6 +1,6 @@
-# diff-dates [![Support this project][donate-now]][paypal-donations]
+# diff-dates [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/diff-dates.svg)](https://www.npmjs.com/package/diff-dates) [![Downloads](https://img.shields.io/npm/dt/diff-dates.svg)](https://www.npmjs.com/package/diff-dates) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-Make date differences.
+> Make date differences.
 
 ## Installation
 
@@ -65,6 +65,8 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 
 ## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
+
+ - [`daty`](https://github.com/IonicaBizau/daty#readme)
 
 ## License
 

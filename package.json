@@ -1,6 +1,6 @@
 {
   "name": "diff-dates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make date differences.",
   "main": "lib/index.js",
   "directories": {
