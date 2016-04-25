@@ -1,6 +1,6 @@
 {
   "name": "diff-dates",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Make date differences.",
   "main": "lib/index.js",
   "directories": {
@@ -26,5 +26,16 @@
   "homepage": "https://github.com/IonicaBizau/diff-dates#readme",
   "dependencies": {
     "date-unit-ms": "^1.1.0"
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
