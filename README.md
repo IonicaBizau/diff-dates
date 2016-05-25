@@ -1,5 +1,7 @@
 
-# diff-dates [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/diff-dates.svg)](https://www.npmjs.com/package/diff-dates) [![Downloads](https://img.shields.io/npm/dt/diff-dates.svg)](https://www.npmjs.com/package/diff-dates) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+# diff-dates
+
+ [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/diff-dates.svg)](https://www.npmjs.com/package/diff-dates) [![Downloads](https://img.shields.io/npm/dt/diff-dates.svg)](https://www.npmjs.com/package/diff-dates) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Make date differences.
 
@@ -70,11 +72,6 @@ Makes a difference between the first date object (`d1`) and the second one (`d1`
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## :dizzy: Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
-
-
- - [`daty`](https://github.com/IonicaBizau/daty#readme)—A tiny library to manage date objects.
 
 ## :scroll: License
 
