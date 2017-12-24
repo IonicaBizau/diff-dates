@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save diff-dates
+# Using npm
+npm install --save diff-dates
+
+# Using yarn
+yarn add diff-dates
 ```
 
 
