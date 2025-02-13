@@ -1,6 +1,6 @@
 {
   "name": "diff-dates",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "Make date differences.",
   "main": "lib/index.js",
   "directories": {
@@ -38,6 +38,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
